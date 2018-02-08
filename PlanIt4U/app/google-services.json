@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "140710525452",
+    "firebase_url": "https://planit4u-33345.firebaseio.com",
+    "project_id": "planit4u-33345",
+    "storage_bucket": "planit4u-33345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140710525452:android:ad766fcdf80c5ca6",
+        "android_client_info": {
+          "package_name": "com.example.samarfares.planit4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140710525452-se54e67qd86kcmp4rgoa5cd1lv381o2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC71zwOtdiLryrvVH-QPxu5HWaEbYHRA18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
